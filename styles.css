@@ -180,12 +180,12 @@ image: url('./booklets/ad-alone.png');
 }
 
 .callout-container {
-  padding: 10px 70px 10px 70px;
+  padding: 20px 70px 55px 70px;
   background-color: #ccc;
   color: black;
   text-align: center;
   text-align: justify;
-  font-size: 25pt;
+  font-size: 26pt;
 }
 
 .closebtn1 {
