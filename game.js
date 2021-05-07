@@ -205,7 +205,7 @@ setInterval(timer1, 1000);
     }
     // when the player winw the game
     if (won) {
-      winningMessage.text = "TO THE NEXT LEVEL!";
+      winningMessage.text = "Почнімо пригоду!";
 
     }
 
