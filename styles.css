@@ -197,6 +197,7 @@ image: url('./booklets/ad-alone.png');
 .callout {
   position: fixed;
     width: 50%;
+    top: 2%;
 }
 
 .callout-header {
