@@ -117,13 +117,13 @@ window.onload = function () {
  game.scale.pageAlignHorizontally = true;
  game.scale.pageAlignVertically = true;
     // game.stage.backgroundColor = '#5db1ad';
-    game.load.image('background', 'background.png');
+    game.load.image('background', './img/background.png');
 
     //Load images
-    game.load.image('platform1', 'platform1.png');
-    game.load.image('platform2', 'platform2.png');
-    game.load.image('platform3', 'platform3.png');
-    game.load.image('platform4', 'platform4.png');
+    game.load.image('platform1', './img/platform1.png');
+    game.load.image('platform2', './img/platform2.png');
+    game.load.image('platform3', './img/platform3.png');
+    game.load.image('platform4', './img/platform4.png');
 
 
     //Load spritesheets
